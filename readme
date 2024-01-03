@@ -1,0 +1,1 @@
+This R package (eLNNpairedCov) implements the algorithm published in Zhang et al. BMC Bioinformatics (2023) 24:423 to detect differentially expressed genes from paired design using a model-based clustering with covariate adjustment
