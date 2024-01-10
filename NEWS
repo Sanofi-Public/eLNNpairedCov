@@ -1,3 +1,6 @@
+# Version 0.3.2 (Jan. 10, 2024)
+(1) revised <doi:> in DESCRIPTION format
+
 # Version 0.3.1 (Dec. 22, 2023)
   (1) title in DESCRIPTION is shorten
   (2) add author(year) <doi:> in DESCRIPTION format
