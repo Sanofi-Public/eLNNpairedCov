@@ -11,6 +11,7 @@ Authors@R: c(person("Yixin", "Zhang", role = c("aut", "cre"),
                      email = "weiliang.qiu@sanofi.com"))
 Depends: R (>= 4.0.0), Biobase
 Imports: MASS, graphics, stats, limma, methods, parallel
+URL: https://github.com/Sanofi-Public/eLNNpairedCov
 biocViews: Bioinformatics, DifferentialExpression
 Description: Model-based clustering for paired data based on the regression of a mixture of Bayesian hierarchical models on covariates. Zhang et al. (2023) <doi:10.1186/s12859-023-05556-x>.                      
 License: GPL (>= 2)
